@@ -1,1 +1,1 @@
-Haskell Curry
+Sam Nowak
